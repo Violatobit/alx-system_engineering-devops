@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la |sork -k3 |sort -k4
+ls -la -n
