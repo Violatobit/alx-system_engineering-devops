@@ -1,6 +1,2 @@
 #!/bin/bash 
-<<<<<<< HEAD
 echo "Hello, World">&1
-=======
-"Hello, World\n" >
->>>>>>> parent of b833f3e... Print hello wolrd to stdout
